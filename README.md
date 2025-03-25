@@ -4,7 +4,7 @@
 Web Developer at [Compass.Uol](https://compass.uol/);<br>
 
 
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.tsx`, `.class`, `.yml`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.tsx`, `.json`, `.class`, `.yml`
 - 🌱 I’m currently learning Spring Boot and NextJs
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gregory-mattos/)
   
